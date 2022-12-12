@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+strong{
+    font-size: 20px;
+}
+p{
+    color: rgb(52, 205, 235);
+    background-color: #ded6c8;
+    width: 20px;
+    width: 70vw;
+    margin: 0;
+    line-height: 1.2;
+}
+div{
+    transform: rotate(0deg);
+    width: calc(100% - 20px);
+    background-image: url();
+}
+
+h1,h2,h3,h4,h5,h6{
+    color: blue;
+}
+
+.heading{
+    background-color: black;
+}
+
+#one{
+    font-size: 30px;
+}
+
+.container{
+    font-style: italic;
+}
